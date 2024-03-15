@@ -1,11 +1,12 @@
 package com.endes.app;
 
-/*
+/**
  * @param name Employee's name
  * @param antiquity Employee's antiquity
  * @version 1.0
  * @author Joaquin Barrero
  * */
+
 public class Employee {
 	
 	
